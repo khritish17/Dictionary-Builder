@@ -1,4 +1,1 @@
-computer|A machine|--|--
-compur|A machine|--|--
-computer|A machine|--|--
 compur|A machine|--|--
