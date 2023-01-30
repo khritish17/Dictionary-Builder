@@ -1,4 +1,3 @@
-
 class Dictionary_builder:
     def __init__(self) -> None:
         self.cached_file = {}
