@@ -1,0 +1,5 @@
+✅ Application launched: 2023-07-27 00:13:33.877260
+❌	Error: Tried to find an empty string in add_word()
+❌	Error: '_tri' is not a valid word, try not using any special characters in the word
+✅ Application terminated safely
+
