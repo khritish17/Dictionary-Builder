@@ -1,5 +1,103 @@
-✅ Application launched: 2023-07-27 00:13:33.877260
+✅ Application launched: 2023-07-27 12:48:18.560853
 ❌	Error: Tried to find an empty string in add_word()
 ❌	Error: '_tri' is not a valid word, try not using any special characters in the word
+❌	Error: 'a' TRIE not found in global addressmap
+✅	'a' TRIE generated and added to global addressmap
+✅ Application terminated safely
+
+✅ Application launched: 2023-07-27 13:00:09.167255
+❌	Error: Tried to find an empty string in add_word()
+❌	Error: '_tri' is not a valid word, try not using any special characters in the word
+❌	Error: 'a' TRIE not found in global addressmap
+✅	'a' TRIE generated and added to global addressmap
+✅ Application terminated safely
+
+✅ Application launched: 2023-08-06 15:03:01.234549
+❌	Error: Tried to find an empty string in add_word()
+❌	Error: '_tri' is not a valid word, try not using any special characters in the word
+❌	Error: 'a' TRIE not found in global addressmap
+✅	'a' TRIE generated and added to global addressmap
+✅ Application terminated safely
+
+✅ Application launched: 2023-08-06 15:03:18.556967
+❌	Error: 'a' TRIE not found in global addressmap
+✅	'a' TRIE generated and added to global addressmap
+✅ Application terminated safely
+
+✅ Application launched: 2023-08-06 15:04:12.687278
+❌	Error: 'a' TRIE not found in global addressmap
+✅	'a' TRIE generated and added to global addressmap
+✅ Application terminated safely
+
+✅ Application launched: 2023-08-06 15:04:41.321945
+❌	Error: 'a' TRIE not found in global addressmap
+✅	'a' TRIE generated and added to global addressmap
+✅ Application terminated safely
+
+✅ Application launched: 2023-08-06 15:08:25.035318
+❌	Error: 'a' TRIE not found in global addressmap
+✅	'a' TRIE generated and added to global addressmap
+✅ Application terminated safely
+
+✅ Application launched: 2023-08-06 15:08:47.557287
+❌	Error: 'a' TRIE not found in global addressmap
+✅	'a' TRIE generated and added to global addressmap
+✅ Application terminated safely
+
+✅ Application launched: 2023-08-06 15:09:18.796343
+❌	Error: 'a' TRIE not found in global addressmap
+✅	'a' TRIE generated and added to global addressmap
+✅ Application terminated safely
+
+✅ Application launched: 2023-08-06 15:10:34.482927
+❌	Error: 'a' TRIE not found in global addressmap
+✅	'a' TRIE generated and added to global addressmap
+✅ Application terminated safely
+
+✅ Application launched: 2023-08-06 15:11:00.946469
+❌	Error: 'a' TRIE not found in global addressmap
+✅	'a' TRIE generated and added to global addressmap
+✅ Application terminated safely
+
+✅ Application launched: 2023-08-06 15:11:30.276677
+❌	Error: 'a' TRIE not found in global addressmap
+✅	'a' TRIE generated and added to global addressmap
+✅ Application launched: 2023-08-06 15:12:58.264119
+❌	Error: 'a' TRIE not found in global addressmap
+✅	'a' TRIE generated and added to global addressmap
+✅ Application terminated safely
+
+✅ Application launched: 2023-08-06 15:13:26.238244
+❌	Error: 'a' TRIE not found in global addressmap
+✅	'a' TRIE generated and added to global addressmap
+✅ Application terminated safely
+
+✅ Application launched: 2023-08-06 15:14:28.896165
+❌	Error: 'a' TRIE not found in global addressmap
+✅	'a' TRIE generated and added to global addressmap
+✅ Application launched: 2023-08-06 15:14:55.968930
+❌	Error: 'a' TRIE not found in global addressmap
+✅	'a' TRIE generated and added to global addressmap
+✅ Application terminated safely
+
+✅ Application launched: 2023-08-06 15:16:08.564546
+❌	Error: 'a' TRIE not found in global addressmap
+✅	'a' TRIE generated and added to global addressmap
+✅ Application terminated safely
+
+✅ Application launched: 2023-08-06 15:17:10.240385
+❌	Error: Tried to find an empty string in add_word()
+✅ Application launched: 2023-08-06 15:17:55.199226
+❌	Error: Tried to find an empty string in add_word()
+✅ Application launched: 2023-08-06 15:18:15.699845
+❌	Error: Tried to find an empty string in add_word()
+❌	Error: 'a' TRIE not found in global addressmap
+✅	'a' TRIE generated and added to global addressmap
+✅ Application terminated safely
+
+✅ Application launched: 2023-08-06 15:18:27.756933
+❌	Error: '_tri' is not a valid word, try not using any special characters in the word
+❌	Error: 'a' TRIE not found in global addressmap
+✅	'a' TRIE generated and added to global addressmap
 ✅ Application terminated safely
 

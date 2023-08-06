@@ -34,6 +34,26 @@ class TrieGenerator:
         temp.database = database
         temp.line_no = line_no
         temp.status = True
+    
     def send_head(self):
         return self.head
+
+class SearchInTrie:
+    def __init__(self, head, word) -> None:
+        self.head = head
+        self.word = word
+    
+    def search(self):
+        temp = self.head
+        for letter in self.word:
+            try:
+                temp = temp.characters[letter]
+            except:
+                return False, None, None
+        return temp.status, temp.database, temp.line_no
+
+
 # T = TrieGenerator( "a.adsf",os.path.abspath(""))
+# head = T.send_head()
+# S = SearchInTrie(head, "asd")
+# print(S.search())
