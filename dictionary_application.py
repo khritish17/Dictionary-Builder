@@ -103,12 +103,56 @@ class DictionaryApplication:
 
             
 
-    def update_word(self):
+    def update_word(self, word, description, image_address = None, source = None):
+        word = word.lower()
+        initial = word[0]
+        # if any parameter which is not suppose to be updated, write NONE
+        # NOTE: you can't update the word itself
+        # e.g. "monkey", "animal very similar to apes", "www.monkeys.com", "www.moneys.com"
+        # update_word(word = "monkey", description = None, image_address = "www.animals.com/monkey", source = "www.animals.com/monkey")
+        #  "monkey", "animal very similar to apes", "www.animals.com/monkey", "www.animals.com/monkey"
+        wrd, des, img_adrs, src_adrs = self.find_word(word)
+        if wrd == None:
+            # if word does not exist, there is nothing to update
+            return None
+        else:
+            # word exists
+            address_file_TRIE = self.global_addressmap[initial]
+            SRCH = tg.SearchInTrie(address_file_TRIE, word)
+            status, database_file, line_no = SRCH.search()
+            db_file = open(self.location + "/core_file/ database_files/{}".format(database_file), 'r')
+            lines = db_file.readlines()
+            db_file.close()
+
+            db_file = open(self.location + "/core_file/ database_files/{}".format(database_file), 'w')
+            for index, line in enumerate(lines):
+                if index == int(line_no):
+                    if description == None:
+                        des_ = des
+                    else:
+                        des_ = description
+                    if image_address == None:
+                        img_adrs_ = img_adrs
+                    else:
+                        img_adrs_ = image_address
+                    if source == None:
+                        src_adrs_ = src_adrs
+                    else:
+                        src_adrs_ = source
+                    db_file.write("{}|{}|{}|{}".format(word, des_, img_adrs_, src_adrs_))
+                else:
+                    db_file.write(line)
+            db_file.close()
+    
+    def delete_word(self):
         pass
+
 DA = DictionaryApplication()
 word, description, image_address, source = DA.find_word("tri")
 word, description, image_address, source = DA.find_word("asd")
-DA.add_word("apple", "a popular fruit, a big MNC is named after")
-DA.add_word("trie", "a data structure which is used to make this application")
+DA.add_word("apple", "a popular fruit", "www.apple.com", "www.apple.com")
+DA.add_word("app", "a popular fruit, a big MNC is named after")
+DA.add_word("apps", "a popular fruit, a big MNC is named after")
+DA.update_word("apple","a big tech MNC", "www.apple.com/redapples")
 DA.close()
 
