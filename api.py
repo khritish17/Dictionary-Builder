@@ -1,5 +1,12 @@
 import dictionary_application as da
-DA = da.DictionaryApplication()
+import os
+location = os.path.abspath("")
+
+def setLocation(loc):
+    global location
+    location = loc
+
+DA = da.DictionaryApplication(location)
 
 def find(word):
     '''
@@ -31,3 +38,10 @@ def update(word, description = None, image_address = None, source = None):
     -> False
     '''
     return DA.update_word(word, description, image_address, source)
+
+# print(find("asd"))
+# print(find("aPple"))
+# print(add("fake", "dubicious", "image_address", "source"))
+# print(find("fake"))
+# update("app","a big tech MNC", "www.apple.com/redapples")
+# update("apple", "new phone", "jfj", None)

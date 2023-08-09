@@ -33,5 +33,6 @@ def make_file(location):
         f.close()
         log_file.write("\u2705 \t{}.dbf created\n".format(initial))
     log_file.write("\u2705 Core files creation completed\n\n")
-path = os.path.abspath("")
-make_file(path)
+
+# path = os.path.abspath("")
+# make_file(path)

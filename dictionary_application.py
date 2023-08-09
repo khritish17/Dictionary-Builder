@@ -139,7 +139,7 @@ class DictionaryApplication:
                     if source == None:
                         src_adrs_ = src_adrs
                     else:
-                        src_adrs_ = source
+                        src_adrs_ = source+"\n"
                     db_file.write("{}|{}|{}|{}".format(word, des_, img_adrs_, src_adrs_))
                 else:
                     db_file.write(line)
@@ -149,12 +149,12 @@ class DictionaryApplication:
     def delete_word(self):
         pass
 
-DA = DictionaryApplication()
-word, description, image_address, source = DA.find_word("tri")
-word, description, image_address, source = DA.find_word("asd")
-DA.add_word("apple", "a popular fruit", "www.apple.com", "www.apple.com")
-DA.add_word("app", "a popular fruit, a big MNC is named after")
-DA.add_word("apps", "a popular fruit, a big MNC is named after")
-DA.update_word("apple","a big tech MNC", "www.apple.com/redapples")
-DA.close()
+# DA = DictionaryApplication()
+# word, description, image_address, source = DA.find_word("tri")
+# word, description, image_address, source = DA.find_word("asd")
+# DA.add_word("apple", "a popular fruit", "www.apple.com", "www.apple.com")
+# DA.add_word("app", "a popular fruit, a big MNC is named after")
+# DA.add_word("apps", "a popular fruit, a big MNC is named after")
+# # DA.update_word("apple","a big tech MNC", "www.apple.com/redapples")
+# DA.close()
 

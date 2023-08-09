@@ -582,3 +582,898 @@
 ⚠	Warning: 'asd' already exist, try updating the word
 ✅	'asd' found successfully in the 'a' TRIE
 ✅	'asd' found successfully in the 'a' TRIE
+✅ Application launched: 2023-08-09 09:21:18.017931
+❌	Error: 't' TRIE not found in global addressmap
+✅	't' TRIE generated and added to global addressmap
+❌	Error: 'tri' not found in the 't' TRIE, if it's a valid word add the word
+❌	Error: 'a' TRIE not found in global addressmap
+✅	'a' TRIE generated and added to global addressmap
+✅	'asd' found successfully in the 'a' TRIE
+✅	'apple' found successfully in the 'a' TRIE
+⚠	Warning: 'apple' already exist, try updating the word
+✅	'app' found successfully in the 'a' TRIE
+⚠	Warning: 'app' already exist, try updating the word
+✅	'apps' found successfully in the 'a' TRIE
+⚠	Warning: 'apps' already exist, try updating the word
+✅	'apple' found successfully in the 'a' TRIE
+✅ Application terminated safely
+
+✅ Application launched: 2023-08-09 09:21:18.022045
+❌	Error: 'a' TRIE not found in global addressmap
+✅	'a' TRIE generated and added to global addressmap
+✅	'asd' found successfully in the 'a' TRIE
+✅ Application launched: 2023-08-09 09:21:30.238269
+❌	Error: 't' TRIE not found in global addressmap
+✅	't' TRIE generated and added to global addressmap
+❌	Error: 'tri' not found in the 't' TRIE, if it's a valid word add the word
+❌	Error: 'a' TRIE not found in global addressmap
+✅	'a' TRIE generated and added to global addressmap
+✅	'asd' found successfully in the 'a' TRIE
+✅	'apple' found successfully in the 'a' TRIE
+⚠	Warning: 'apple' already exist, try updating the word
+✅	'app' found successfully in the 'a' TRIE
+⚠	Warning: 'app' already exist, try updating the word
+✅	'apps' found successfully in the 'a' TRIE
+⚠	Warning: 'apps' already exist, try updating the word
+✅	'apple' found successfully in the 'a' TRIE
+✅ Application terminated safely
+
+✅ Application launched: 2023-08-09 09:21:30.239268
+❌	Error: 'a' TRIE not found in global addressmap
+✅	'a' TRIE generated and added to global addressmap
+✅	'asd' found successfully in the 'a' TRIE
+✅	'apple' found successfully in the 'a' TRIE
+✅ Application launched: 2023-08-09 09:22:38.171673
+❌	Error: 't' TRIE not found in global addressmap
+✅	't' TRIE generated and added to global addressmap
+❌	Error: 'tri' not found in the 't' TRIE, if it's a valid word add the word
+❌	Error: 'a' TRIE not found in global addressmap
+✅	'a' TRIE generated and added to global addressmap
+✅	'asd' found successfully in the 'a' TRIE
+✅	'apple' found successfully in the 'a' TRIE
+⚠	Warning: 'apple' already exist, try updating the word
+✅	'app' found successfully in the 'a' TRIE
+⚠	Warning: 'app' already exist, try updating the word
+✅	'apps' found successfully in the 'a' TRIE
+⚠	Warning: 'apps' already exist, try updating the word
+✅	'apple' found successfully in the 'a' TRIE
+✅ Application terminated safely
+
+✅ Application launched: 2023-08-09 09:22:38.173057
+❌	Error: 'a' TRIE not found in global addressmap
+✅	'a' TRIE generated and added to global addressmap
+✅	'asd' found successfully in the 'a' TRIE
+✅	'apple' found successfully in the 'a' TRIE
+❌	Error: 'f' TRIE not found in global addressmap
+✅	'f' TRIE generated and added to global addressmap
+❌	Error: 'fake' not found in the 'f' TRIE, if it's a valid word add the word
+✅ Application launched: 2023-08-09 09:22:51.561672
+❌	Error: 't' TRIE not found in global addressmap
+✅	't' TRIE generated and added to global addressmap
+❌	Error: 'tri' not found in the 't' TRIE, if it's a valid word add the word
+❌	Error: 'a' TRIE not found in global addressmap
+✅	'a' TRIE generated and added to global addressmap
+✅	'asd' found successfully in the 'a' TRIE
+✅	'apple' found successfully in the 'a' TRIE
+⚠	Warning: 'apple' already exist, try updating the word
+✅	'app' found successfully in the 'a' TRIE
+⚠	Warning: 'app' already exist, try updating the word
+✅	'apps' found successfully in the 'a' TRIE
+⚠	Warning: 'apps' already exist, try updating the word
+✅	'apple' found successfully in the 'a' TRIE
+✅ Application terminated safely
+
+✅ Application launched: 2023-08-09 09:22:51.562671
+❌	Error: 'a' TRIE not found in global addressmap
+✅	'a' TRIE generated and added to global addressmap
+✅	'asd' found successfully in the 'a' TRIE
+✅	'apple' found successfully in the 'a' TRIE
+❌	Error: 'f' TRIE not found in global addressmap
+✅	'f' TRIE generated and added to global addressmap
+✅	'fake' found successfully in the 'f' TRIE
+⚠	Warning: 'fake' already exist, try updating the word
+✅	'fake' found successfully in the 'f' TRIE
+✅ Application launched: 2023-08-09 14:43:53.589514
+❌	Error: 't' TRIE not found in global addressmap
+✅	't' TRIE generated and added to global addressmap
+❌	Error: 'tri' not found in the 't' TRIE, if it's a valid word add the word
+❌	Error: 'a' TRIE not found in global addressmap
+✅	'a' TRIE generated and added to global addressmap
+✅	'asd' found successfully in the 'a' TRIE
+✅	'apple' found successfully in the 'a' TRIE
+⚠	Warning: 'apple' already exist, try updating the word
+✅	'app' found successfully in the 'a' TRIE
+⚠	Warning: 'app' already exist, try updating the word
+✅	'apps' found successfully in the 'a' TRIE
+⚠	Warning: 'apps' already exist, try updating the word
+✅	'apple' found successfully in the 'a' TRIE
+✅ Application terminated safely
+
+✅ Application launched: 2023-08-09 14:43:53.614966
+❌	Error: 'a' TRIE not found in global addressmap
+✅	'a' TRIE generated and added to global addressmap
+✅	'asd' found successfully in the 'a' TRIE
+✅	'apple' found successfully in the 'a' TRIE
+❌	Error: 'f' TRIE not found in global addressmap
+✅	'f' TRIE generated and added to global addressmap
+✅	'fake' found successfully in the 'f' TRIE
+⚠	Warning: 'fake' already exist, try updating the word
+✅	'fake' found successfully in the 'f' TRIE
+✅ Application launched: 2023-08-09 14:44:25.496041
+❌	Error: 't' TRIE not found in global addressmap
+✅	't' TRIE generated and added to global addressmap
+❌	Error: 'tri' not found in the 't' TRIE, if it's a valid word add the word
+❌	Error: 'a' TRIE not found in global addressmap
+✅	'a' TRIE generated and added to global addressmap
+✅	'asd' found successfully in the 'a' TRIE
+✅	'apple' found successfully in the 'a' TRIE
+⚠	Warning: 'apple' already exist, try updating the word
+✅	'app' found successfully in the 'a' TRIE
+⚠	Warning: 'app' already exist, try updating the word
+✅	'apps' found successfully in the 'a' TRIE
+⚠	Warning: 'apps' already exist, try updating the word
+✅	'apple' found successfully in the 'a' TRIE
+✅ Application terminated safely
+
+✅ Application launched: 2023-08-09 14:44:25.497041
+❌	Error: 'a' TRIE not found in global addressmap
+✅	'a' TRIE generated and added to global addressmap
+❌	Error: 'appl' not found in the 'a' TRIE, if it's a valid word add the word
+✅	'apple' found successfully in the 'a' TRIE
+❌	Error: 'ass' not found in the 'a' TRIE, if it's a valid word add the word
+✅	'app' found successfully in the 'a' TRIE
+✅	'apps' found successfully in the 'a' TRIE
+✅ Application launched: 2023-08-09 14:45:28.043968
+❌	Error: 't' TRIE not found in global addressmap
+✅	't' TRIE generated and added to global addressmap
+❌	Error: 'tri' not found in the 't' TRIE, if it's a valid word add the word
+❌	Error: 'a' TRIE not found in global addressmap
+✅	'a' TRIE generated and added to global addressmap
+✅	'asd' found successfully in the 'a' TRIE
+✅	'apple' found successfully in the 'a' TRIE
+⚠	Warning: 'apple' already exist, try updating the word
+✅	'app' found successfully in the 'a' TRIE
+⚠	Warning: 'app' already exist, try updating the word
+✅	'apps' found successfully in the 'a' TRIE
+⚠	Warning: 'apps' already exist, try updating the word
+✅	'apple' found successfully in the 'a' TRIE
+✅ Application terminated safely
+
+✅ Application launched: 2023-08-09 14:45:28.044967
+❌	Error: 'a' TRIE not found in global addressmap
+✅	'a' TRIE generated and added to global addressmap
+✅	'asd' found successfully in the 'a' TRIE
+✅ Application launched: 2023-08-09 14:46:28.339910
+❌	Error: 't' TRIE not found in global addressmap
+✅	't' TRIE generated and added to global addressmap
+❌	Error: 'tri' not found in the 't' TRIE, if it's a valid word add the word
+❌	Error: 'a' TRIE not found in global addressmap
+✅	'a' TRIE generated and added to global addressmap
+✅	'asd' found successfully in the 'a' TRIE
+✅	'apple' found successfully in the 'a' TRIE
+⚠	Warning: 'apple' already exist, try updating the word
+✅	'app' found successfully in the 'a' TRIE
+⚠	Warning: 'app' already exist, try updating the word
+✅	'apps' found successfully in the 'a' TRIE
+⚠	Warning: 'apps' already exist, try updating the word
+✅	'apple' found successfully in the 'a' TRIE
+✅ Application terminated safely
+
+✅ Application launched: 2023-08-09 14:46:28.340909
+❌	Error: 'a' TRIE not found in global addressmap
+✅	'a' TRIE generated and added to global addressmap
+❌	Error: 'appls' not found in the 'a' TRIE, if it's a valid word add the word
+✅	'apple' found successfully in the 'a' TRIE
+✅ Application launched: 2023-08-09 14:47:49.810990
+❌	Error: 't' TRIE not found in global addressmap
+✅	't' TRIE generated and added to global addressmap
+❌	Error: 'tri' not found in the 't' TRIE, if it's a valid word add the word
+❌	Error: 'a' TRIE not found in global addressmap
+✅	'a' TRIE generated and added to global addressmap
+✅	'asd' found successfully in the 'a' TRIE
+✅	'apple' found successfully in the 'a' TRIE
+⚠	Warning: 'apple' already exist, try updating the word
+✅	'app' found successfully in the 'a' TRIE
+⚠	Warning: 'app' already exist, try updating the word
+✅	'apps' found successfully in the 'a' TRIE
+⚠	Warning: 'apps' already exist, try updating the word
+✅	'apple' found successfully in the 'a' TRIE
+✅ Application terminated safely
+
+✅ Application launched: 2023-08-09 14:47:49.811989
+❌	Error: 'a' TRIE not found in global addressmap
+✅	'a' TRIE generated and added to global addressmap
+❌	Error: 'ap' not found in the 'a' TRIE, if it's a valid word add the word
+❌	Error: 'ap' not found in the 'a' TRIE, if it's a valid word add the word
+✅ Application launched: 2023-08-09 14:48:50.460644
+❌	Error: 't' TRIE not found in global addressmap
+✅	't' TRIE generated and added to global addressmap
+❌	Error: 'tri' not found in the 't' TRIE, if it's a valid word add the word
+❌	Error: 'a' TRIE not found in global addressmap
+✅	'a' TRIE generated and added to global addressmap
+✅	'asd' found successfully in the 'a' TRIE
+✅	'apple' found successfully in the 'a' TRIE
+⚠	Warning: 'apple' already exist, try updating the word
+✅	'app' found successfully in the 'a' TRIE
+⚠	Warning: 'app' already exist, try updating the word
+✅	'apps' found successfully in the 'a' TRIE
+⚠	Warning: 'apps' already exist, try updating the word
+✅	'apple' found successfully in the 'a' TRIE
+✅ Application terminated safely
+
+✅ Application launched: 2023-08-09 14:48:50.461643
+❌	Error: 'a' TRIE not found in global addressmap
+✅	'a' TRIE generated and added to global addressmap
+✅	'apple' found successfully in the 'a' TRIE
+❌	Error: 'k' TRIE not found in global addressmap
+✅	'k' TRIE generated and added to global addressmap
+❌	Error: 'k' not found in the 'k' TRIE, if it's a valid word add the word
+✅ Application launched: 2023-08-09 14:49:10.868348
+❌	Error: 't' TRIE not found in global addressmap
+✅	't' TRIE generated and added to global addressmap
+❌	Error: 'tri' not found in the 't' TRIE, if it's a valid word add the word
+❌	Error: 'a' TRIE not found in global addressmap
+✅	'a' TRIE generated and added to global addressmap
+✅	'asd' found successfully in the 'a' TRIE
+✅	'apple' found successfully in the 'a' TRIE
+⚠	Warning: 'apple' already exist, try updating the word
+✅	'app' found successfully in the 'a' TRIE
+⚠	Warning: 'app' already exist, try updating the word
+✅	'apps' found successfully in the 'a' TRIE
+⚠	Warning: 'apps' already exist, try updating the word
+✅	'apple' found successfully in the 'a' TRIE
+✅ Application terminated safely
+
+✅ Application launched: 2023-08-09 14:49:10.870346
+❌	Error: 'j' TRIE not found in global addressmap
+✅	'j' TRIE generated and added to global addressmap
+❌	Error: 'j' not found in the 'j' TRIE, if it's a valid word add the word
+✅ Application launched: 2023-08-09 14:49:46.909246
+❌	Error: 't' TRIE not found in global addressmap
+✅	't' TRIE generated and added to global addressmap
+❌	Error: 'tri' not found in the 't' TRIE, if it's a valid word add the word
+❌	Error: 'a' TRIE not found in global addressmap
+✅	'a' TRIE generated and added to global addressmap
+✅	'asd' found successfully in the 'a' TRIE
+✅	'apple' found successfully in the 'a' TRIE
+⚠	Warning: 'apple' already exist, try updating the word
+✅	'app' found successfully in the 'a' TRIE
+⚠	Warning: 'app' already exist, try updating the word
+✅	'apps' found successfully in the 'a' TRIE
+⚠	Warning: 'apps' already exist, try updating the word
+✅	'apple' found successfully in the 'a' TRIE
+✅ Application terminated safely
+
+✅ Application launched: 2023-08-09 14:49:46.910245
+❌	Error: 'k' TRIE not found in global addressmap
+✅	'k' TRIE generated and added to global addressmap
+❌	Error: 'k' not found in the 'k' TRIE, if it's a valid word add the word
+✅ Application launched: 2023-08-09 14:50:06.037900
+❌	Error: 't' TRIE not found in global addressmap
+✅	't' TRIE generated and added to global addressmap
+❌	Error: 'tri' not found in the 't' TRIE, if it's a valid word add the word
+❌	Error: 'a' TRIE not found in global addressmap
+✅	'a' TRIE generated and added to global addressmap
+✅	'asd' found successfully in the 'a' TRIE
+✅	'apple' found successfully in the 'a' TRIE
+⚠	Warning: 'apple' already exist, try updating the word
+✅	'app' found successfully in the 'a' TRIE
+⚠	Warning: 'app' already exist, try updating the word
+✅	'apps' found successfully in the 'a' TRIE
+⚠	Warning: 'apps' already exist, try updating the word
+✅	'apple' found successfully in the 'a' TRIE
+✅ Application terminated safely
+
+✅ Application launched: 2023-08-09 14:50:06.039871
+❌	Error: 'k' TRIE not found in global addressmap
+✅	'k' TRIE generated and added to global addressmap
+❌	Error: 'k' not found in the 'k' TRIE, if it's a valid word add the word
+✅ Application launched: 2023-08-09 14:51:17.411140
+❌	Error: 't' TRIE not found in global addressmap
+✅	't' TRIE generated and added to global addressmap
+❌	Error: 'tri' not found in the 't' TRIE, if it's a valid word add the word
+❌	Error: 'a' TRIE not found in global addressmap
+✅	'a' TRIE generated and added to global addressmap
+✅	'asd' found successfully in the 'a' TRIE
+✅	'apple' found successfully in the 'a' TRIE
+⚠	Warning: 'apple' already exist, try updating the word
+✅	'app' found successfully in the 'a' TRIE
+⚠	Warning: 'app' already exist, try updating the word
+✅	'apps' found successfully in the 'a' TRIE
+⚠	Warning: 'apps' already exist, try updating the word
+✅	'apple' found successfully in the 'a' TRIE
+✅ Application terminated safely
+
+✅ Application launched: 2023-08-09 14:51:17.413138
+❌	Error: 'k' TRIE not found in global addressmap
+✅	'k' TRIE generated and added to global addressmap
+❌	Error: 'k' not found in the 'k' TRIE, if it's a valid word add the word
+❌	Error: 'a' TRIE not found in global addressmap
+✅	'a' TRIE generated and added to global addressmap
+✅	'app' found successfully in the 'a' TRIE
+✅ Application launched: 2023-08-09 14:52:56.609559
+❌	Error: 't' TRIE not found in global addressmap
+✅	't' TRIE generated and added to global addressmap
+❌	Error: 'tri' not found in the 't' TRIE, if it's a valid word add the word
+❌	Error: 'a' TRIE not found in global addressmap
+✅	'a' TRIE generated and added to global addressmap
+✅	'asd' found successfully in the 'a' TRIE
+✅	'apple' found successfully in the 'a' TRIE
+⚠	Warning: 'apple' already exist, try updating the word
+✅	'app' found successfully in the 'a' TRIE
+⚠	Warning: 'app' already exist, try updating the word
+✅	'apps' found successfully in the 'a' TRIE
+⚠	Warning: 'apps' already exist, try updating the word
+✅	'apple' found successfully in the 'a' TRIE
+✅ Application terminated safely
+
+✅ Application launched: 2023-08-09 14:52:56.610570
+❌	Error: Tried to find an empty string in find_word()
+✅ Application launched: 2023-08-09 14:54:58.240407
+❌	Error: 't' TRIE not found in global addressmap
+✅	't' TRIE generated and added to global addressmap
+❌	Error: 'tri' not found in the 't' TRIE, if it's a valid word add the word
+❌	Error: 'a' TRIE not found in global addressmap
+✅	'a' TRIE generated and added to global addressmap
+✅	'asd' found successfully in the 'a' TRIE
+✅	'apple' found successfully in the 'a' TRIE
+⚠	Warning: 'apple' already exist, try updating the word
+✅	'app' found successfully in the 'a' TRIE
+⚠	Warning: 'app' already exist, try updating the word
+✅	'apps' found successfully in the 'a' TRIE
+⚠	Warning: 'apps' already exist, try updating the word
+✅	'apple' found successfully in the 'a' TRIE
+✅ Application terminated safely
+
+✅ Application launched: 2023-08-09 14:54:58.242417
+✅ Application launched: 2023-08-09 15:00:17.045748
+❌	Error: 't' TRIE not found in global addressmap
+✅	't' TRIE generated and added to global addressmap
+❌	Error: 'tri' not found in the 't' TRIE, if it's a valid word add the word
+❌	Error: 'a' TRIE not found in global addressmap
+✅	'a' TRIE generated and added to global addressmap
+✅	'asd' found successfully in the 'a' TRIE
+✅	'apple' found successfully in the 'a' TRIE
+⚠	Warning: 'apple' already exist, try updating the word
+✅	'app' found successfully in the 'a' TRIE
+⚠	Warning: 'app' already exist, try updating the word
+✅	'apps' found successfully in the 'a' TRIE
+⚠	Warning: 'apps' already exist, try updating the word
+✅	'apple' found successfully in the 'a' TRIE
+✅ Application terminated safely
+
+✅ Application launched: 2023-08-09 15:00:17.046745
+❌	Error: 'a' TRIE not found in global addressmap
+✅	'a' TRIE generated and added to global addressmap
+✅	'apple' found successfully in the 'a' TRIE
+✅ Application launched: 2023-08-09 15:12:01.760682
+❌	Error: 't' TRIE not found in global addressmap
+✅	't' TRIE generated and added to global addressmap
+❌	Error: 'tri' not found in the 't' TRIE, if it's a valid word add the word
+❌	Error: 'a' TRIE not found in global addressmap
+✅	'a' TRIE generated and added to global addressmap
+✅	'asd' found successfully in the 'a' TRIE
+✅	'apple' found successfully in the 'a' TRIE
+⚠	Warning: 'apple' already exist, try updating the word
+✅	'app' found successfully in the 'a' TRIE
+⚠	Warning: 'app' already exist, try updating the word
+✅	'apps' found successfully in the 'a' TRIE
+⚠	Warning: 'apps' already exist, try updating the word
+✅	'apple' found successfully in the 'a' TRIE
+✅ Application terminated safely
+
+✅ Application launched: 2023-08-09 15:12:01.762686
+✅ Application launched: 2023-08-09 15:12:16.443291
+❌	Error: 't' TRIE not found in global addressmap
+✅	't' TRIE generated and added to global addressmap
+❌	Error: 'tri' not found in the 't' TRIE, if it's a valid word add the word
+❌	Error: 'a' TRIE not found in global addressmap
+✅	'a' TRIE generated and added to global addressmap
+✅	'asd' found successfully in the 'a' TRIE
+✅	'apple' found successfully in the 'a' TRIE
+⚠	Warning: 'apple' already exist, try updating the word
+✅	'app' found successfully in the 'a' TRIE
+⚠	Warning: 'app' already exist, try updating the word
+✅	'apps' found successfully in the 'a' TRIE
+⚠	Warning: 'apps' already exist, try updating the word
+✅	'apple' found successfully in the 'a' TRIE
+✅ Application terminated safely
+
+✅ Application launched: 2023-08-09 15:12:16.444325
+❌	Error: 'a' TRIE not found in global addressmap
+✅	'a' TRIE generated and added to global addressmap
+✅	'apple' found successfully in the 'a' TRIE
+⚠	Warning: 'apple' already exist, try updating the word
+✅ Application launched: 2023-08-09 15:13:02.544865
+❌	Error: 't' TRIE not found in global addressmap
+✅	't' TRIE generated and added to global addressmap
+❌	Error: 'tri' not found in the 't' TRIE, if it's a valid word add the word
+❌	Error: 'a' TRIE not found in global addressmap
+✅	'a' TRIE generated and added to global addressmap
+✅	'asd' found successfully in the 'a' TRIE
+✅	'apple' found successfully in the 'a' TRIE
+⚠	Warning: 'apple' already exist, try updating the word
+✅	'app' found successfully in the 'a' TRIE
+⚠	Warning: 'app' already exist, try updating the word
+✅	'apps' found successfully in the 'a' TRIE
+⚠	Warning: 'apps' already exist, try updating the word
+✅	'apple' found successfully in the 'a' TRIE
+✅ Application terminated safely
+
+✅ Application launched: 2023-08-09 15:13:02.547721
+❌	Error: 'a' TRIE not found in global addressmap
+✅	'a' TRIE generated and added to global addressmap
+✅	'apple' found successfully in the 'a' TRIE
+⚠	Warning: 'apple' already exist, try updating the word
+✅	'apple' found successfully in the 'a' TRIE
+✅ Application launched: 2023-08-09 15:13:25.989259
+❌	Error: 't' TRIE not found in global addressmap
+✅	't' TRIE generated and added to global addressmap
+❌	Error: 'tri' not found in the 't' TRIE, if it's a valid word add the word
+❌	Error: 'a' TRIE not found in global addressmap
+✅	'a' TRIE generated and added to global addressmap
+✅	'asd' found successfully in the 'a' TRIE
+✅	'apple' found successfully in the 'a' TRIE
+⚠	Warning: 'apple' already exist, try updating the word
+✅	'app' found successfully in the 'a' TRIE
+⚠	Warning: 'app' already exist, try updating the word
+✅	'apps' found successfully in the 'a' TRIE
+⚠	Warning: 'apps' already exist, try updating the word
+✅	'apple' found successfully in the 'a' TRIE
+✅ Application terminated safely
+
+✅ Application launched: 2023-08-09 15:13:25.990288
+❌	Error: 'n' TRIE not found in global addressmap
+✅	'n' TRIE generated and added to global addressmap
+❌	Error: 'new' not found in the 'n' TRIE, if it's a valid word add the word
+✅ Application launched: 2023-08-09 15:20:16.419666
+❌	Error: 't' TRIE not found in global addressmap
+✅	't' TRIE generated and added to global addressmap
+❌	Error: 'tri' not found in the 't' TRIE, if it's a valid word add the word
+❌	Error: 'a' TRIE not found in global addressmap
+✅	'a' TRIE generated and added to global addressmap
+✅	'asd' found successfully in the 'a' TRIE
+✅	'apple' found successfully in the 'a' TRIE
+⚠	Warning: 'apple' already exist, try updating the word
+✅	'app' found successfully in the 'a' TRIE
+⚠	Warning: 'app' already exist, try updating the word
+✅	'apps' found successfully in the 'a' TRIE
+⚠	Warning: 'apps' already exist, try updating the word
+✅	'apple' found successfully in the 'a' TRIE
+✅ Application terminated safely
+
+✅ Application launched: 2023-08-09 15:20:16.420671
+❌	Error: 'a' TRIE not found in global addressmap
+✅	'a' TRIE generated and added to global addressmap
+✅	'apple' found successfully in the 'a' TRIE
+❌	Error: 'addple' not found in the 'a' TRIE, if it's a valid word add the word
+✅	'apps' found successfully in the 'a' TRIE
+✅ Application launched: 2023-08-09 15:22:23.032675
+❌	Error: 't' TRIE not found in global addressmap
+✅	't' TRIE generated and added to global addressmap
+❌	Error: 'tri' not found in the 't' TRIE, if it's a valid word add the word
+❌	Error: 'a' TRIE not found in global addressmap
+✅	'a' TRIE generated and added to global addressmap
+❌	Error: 'asd' not found in the 'a' TRIE, if it's a valid word add the word
+❌	Error: 'apple' not found in the 'a' TRIE, if it's a valid word add the word
+❌	Error: 'app' not found in the 'a' TRIE, if it's a valid word add the word
+❌	Error: 'apps' not found in the 'a' TRIE, if it's a valid word add the word
+❌	Error: 'apple' not found in the 'a' TRIE, if it's a valid word add the word
+✅ Application terminated safely
+
+✅ Application launched: 2023-08-09 15:22:23.058612
+❌	Error: 'a' TRIE not found in global addressmap
+✅	'a' TRIE generated and added to global addressmap
+✅	'apple' found successfully in the 'a' TRIE
+✅ Application launched: 2023-08-09 15:22:50.563928
+❌	Error: 't' TRIE not found in global addressmap
+✅	't' TRIE generated and added to global addressmap
+❌	Error: 'tri' not found in the 't' TRIE, if it's a valid word add the word
+❌	Error: 'a' TRIE not found in global addressmap
+✅	'a' TRIE generated and added to global addressmap
+❌	Error: 'asd' not found in the 'a' TRIE, if it's a valid word add the word
+✅	'apple' found successfully in the 'a' TRIE
+⚠	Warning: 'apple' already exist, try updating the word
+✅	'app' found successfully in the 'a' TRIE
+⚠	Warning: 'app' already exist, try updating the word
+✅	'apps' found successfully in the 'a' TRIE
+⚠	Warning: 'apps' already exist, try updating the word
+✅	'apple' found successfully in the 'a' TRIE
+✅ Application terminated safely
+
+✅ Application launched: 2023-08-09 15:24:43.922329
+❌	Error: 't' TRIE not found in global addressmap
+✅	't' TRIE generated and added to global addressmap
+❌	Error: 'tri' not found in the 't' TRIE, if it's a valid word add the word
+❌	Error: 'a' TRIE not found in global addressmap
+✅	'a' TRIE generated and added to global addressmap
+❌	Error: 'asd' not found in the 'a' TRIE, if it's a valid word add the word
+❌	Error: 'apple' not found in the 'a' TRIE, if it's a valid word add the word
+❌	Error: 'app' not found in the 'a' TRIE, if it's a valid word add the word
+❌	Error: 'apps' not found in the 'a' TRIE, if it's a valid word add the word
+✅ Application terminated safely
+
+✅ Application launched: 2023-08-09 15:25:09.358372
+❌	Error: 't' TRIE not found in global addressmap
+✅	't' TRIE generated and added to global addressmap
+❌	Error: 'tri' not found in the 't' TRIE, if it's a valid word add the word
+❌	Error: 'a' TRIE not found in global addressmap
+✅	'a' TRIE generated and added to global addressmap
+❌	Error: 'asd' not found in the 'a' TRIE, if it's a valid word add the word
+✅	'apple' found successfully in the 'a' TRIE
+✅ Application terminated safely
+
+✅ Application launched: 2023-08-09 15:25:27.340895
+❌	Error: 't' TRIE not found in global addressmap
+✅	't' TRIE generated and added to global addressmap
+❌	Error: 'tri' not found in the 't' TRIE, if it's a valid word add the word
+❌	Error: 'a' TRIE not found in global addressmap
+✅	'a' TRIE generated and added to global addressmap
+❌	Error: 'asd' not found in the 'a' TRIE, if it's a valid word add the word
+✅	'app' found successfully in the 'a' TRIE
+✅ Application terminated safely
+
+✅ Application launched: 2023-08-09 15:27:00.660746
+❌	Error: 't' TRIE not found in global addressmap
+✅	't' TRIE generated and added to global addressmap
+❌	Error: 'tri' not found in the 't' TRIE, if it's a valid word add the word
+❌	Error: 'a' TRIE not found in global addressmap
+✅	'a' TRIE generated and added to global addressmap
+❌	Error: 'asd' not found in the 'a' TRIE, if it's a valid word add the word
+✅	'app' found successfully in the 'a' TRIE
+✅ Application terminated safely
+
+✅ Application launched: 2023-08-09 15:27:00.660746
+❌	Error: 'a' TRIE not found in global addressmap
+✅	'a' TRIE generated and added to global addressmap
+✅	'app' found successfully in the 'a' TRIE
+✅ Application launched: 2023-08-09 15:29:20.757241
+❌	Error: 't' TRIE not found in global addressmap
+✅	't' TRIE generated and added to global addressmap
+❌	Error: 'tri' not found in the 't' TRIE, if it's a valid word add the word
+❌	Error: 'a' TRIE not found in global addressmap
+✅	'a' TRIE generated and added to global addressmap
+❌	Error: 'asd' not found in the 'a' TRIE, if it's a valid word add the word
+✅	'apple' found successfully in the 'a' TRIE
+⚠	Warning: 'apple' already exist, try updating the word
+✅ Application launched: 2023-08-09 15:29:39.842881
+❌	Error: 't' TRIE not found in global addressmap
+✅	't' TRIE generated and added to global addressmap
+❌	Error: 'tri' not found in the 't' TRIE, if it's a valid word add the word
+❌	Error: 'a' TRIE not found in global addressmap
+✅	'a' TRIE generated and added to global addressmap
+❌	Error: 'asd' not found in the 'a' TRIE, if it's a valid word add the word
+✅	'apple' found successfully in the 'a' TRIE
+⚠	Warning: 'apple' already exist, try updating the word
+✅ Application launched: 2023-08-09 15:29:59.647135
+❌	Error: 't' TRIE not found in global addressmap
+✅	't' TRIE generated and added to global addressmap
+❌	Error: 'tri' not found in the 't' TRIE, if it's a valid word add the word
+❌	Error: 'a' TRIE not found in global addressmap
+✅	'a' TRIE generated and added to global addressmap
+❌	Error: 'asd' not found in the 'a' TRIE, if it's a valid word add the word
+❌	Error: 'apple' not found in the 'a' TRIE, if it's a valid word add the word
+❌	Error: 'app' not found in the 'a' TRIE, if it's a valid word add the word
+❌	Error: 'apps' not found in the 'a' TRIE, if it's a valid word add the word
+✅ Application terminated safely
+
+✅ Application launched: 2023-08-09 15:30:09.889551
+❌	Error: 't' TRIE not found in global addressmap
+✅	't' TRIE generated and added to global addressmap
+❌	Error: 'tri' not found in the 't' TRIE, if it's a valid word add the word
+❌	Error: 'a' TRIE not found in global addressmap
+✅	'a' TRIE generated and added to global addressmap
+❌	Error: 'asd' not found in the 'a' TRIE, if it's a valid word add the word
+✅	'apple' found successfully in the 'a' TRIE
+⚠	Warning: 'apple' already exist, try updating the word
+✅	'app' found successfully in the 'a' TRIE
+⚠	Warning: 'app' already exist, try updating the word
+✅	'apps' found successfully in the 'a' TRIE
+⚠	Warning: 'apps' already exist, try updating the word
+✅ Application terminated safely
+
+✅ Application launched: 2023-08-09 15:30:09.890587
+❌	Error: 'a' TRIE not found in global addressmap
+✅	'a' TRIE generated and added to global addressmap
+✅	'app' found successfully in the 'a' TRIE
+✅ Application launched: 2023-08-09 15:31:33.697241
+❌	Error: 't' TRIE not found in global addressmap
+✅	't' TRIE generated and added to global addressmap
+❌	Error: 'tri' not found in the 't' TRIE, if it's a valid word add the word
+❌	Error: 'a' TRIE not found in global addressmap
+✅	'a' TRIE generated and added to global addressmap
+❌	Error: 'asd' not found in the 'a' TRIE, if it's a valid word add the word
+✅	'apple' found successfully in the 'a' TRIE
+⚠	Warning: 'apple' already exist, try updating the word
+✅	'app' found successfully in the 'a' TRIE
+⚠	Warning: 'app' already exist, try updating the word
+✅	'apps' found successfully in the 'a' TRIE
+⚠	Warning: 'apps' already exist, try updating the word
+✅ Application terminated safely
+
+✅ Application launched: 2023-08-09 15:31:33.697241
+❌	Error: 'a' TRIE not found in global addressmap
+✅	'a' TRIE generated and added to global addressmap
+✅	'app' found successfully in the 'a' TRIE
+✅	'apple' found successfully in the 'a' TRIE
+✅ Application launched: 2023-08-09 15:32:11.840126
+❌	Error: 't' TRIE not found in global addressmap
+✅	't' TRIE generated and added to global addressmap
+❌	Error: 'tri' not found in the 't' TRIE, if it's a valid word add the word
+❌	Error: 'a' TRIE not found in global addressmap
+✅	'a' TRIE generated and added to global addressmap
+❌	Error: 'asd' not found in the 'a' TRIE, if it's a valid word add the word
+❌	Error: 'apple' not found in the 'a' TRIE, if it's a valid word add the word
+❌	Error: 'app' not found in the 'a' TRIE, if it's a valid word add the word
+❌	Error: 'apps' not found in the 'a' TRIE, if it's a valid word add the word
+✅ Application terminated safely
+
+✅ Application launched: 2023-08-09 15:32:24.816457
+❌	Error: 't' TRIE not found in global addressmap
+✅	't' TRIE generated and added to global addressmap
+❌	Error: 'tri' not found in the 't' TRIE, if it's a valid word add the word
+❌	Error: 'a' TRIE not found in global addressmap
+✅	'a' TRIE generated and added to global addressmap
+❌	Error: 'asd' not found in the 'a' TRIE, if it's a valid word add the word
+✅	'apple' found successfully in the 'a' TRIE
+⚠	Warning: 'apple' already exist, try updating the word
+✅	'app' found successfully in the 'a' TRIE
+⚠	Warning: 'app' already exist, try updating the word
+✅	'apps' found successfully in the 'a' TRIE
+⚠	Warning: 'apps' already exist, try updating the word
+✅ Application terminated safely
+
+✅ Application launched: 2023-08-09 15:32:24.817456
+❌	Error: 'a' TRIE not found in global addressmap
+✅	'a' TRIE generated and added to global addressmap
+✅	'app' found successfully in the 'a' TRIE
+✅	'apps' found successfully in the 'a' TRIE
+✅ Application launched: 2023-08-09 15:32:54.767633
+❌	Error: 't' TRIE not found in global addressmap
+✅	't' TRIE generated and added to global addressmap
+❌	Error: 'tri' not found in the 't' TRIE, if it's a valid word add the word
+❌	Error: 'a' TRIE not found in global addressmap
+✅	'a' TRIE generated and added to global addressmap
+❌	Error: 'asd' not found in the 'a' TRIE, if it's a valid word add the word
+✅	'apple' found successfully in the 'a' TRIE
+⚠	Warning: 'apple' already exist, try updating the word
+✅	'app' found successfully in the 'a' TRIE
+⚠	Warning: 'app' already exist, try updating the word
+✅	'apps' found successfully in the 'a' TRIE
+⚠	Warning: 'apps' already exist, try updating the word
+✅	'apple' found successfully in the 'a' TRIE
+✅ Application terminated safely
+
+✅ Application launched: 2023-08-09 15:34:26.461809
+❌	Error: 't' TRIE not found in global addressmap
+✅	't' TRIE generated and added to global addressmap
+❌	Error: 'tri' not found in the 't' TRIE, if it's a valid word add the word
+❌	Error: 'a' TRIE not found in global addressmap
+✅	'a' TRIE generated and added to global addressmap
+❌	Error: 'asd' not found in the 'a' TRIE, if it's a valid word add the word
+❌	Error: 'apple' not found in the 'a' TRIE, if it's a valid word add the word
+❌	Error: 'app' not found in the 'a' TRIE, if it's a valid word add the word
+❌	Error: 'apps' not found in the 'a' TRIE, if it's a valid word add the word
+✅ Application terminated safely
+
+✅ Application launched: 2023-08-09 15:34:37.718581
+❌	Error: 't' TRIE not found in global addressmap
+✅	't' TRIE generated and added to global addressmap
+❌	Error: 'tri' not found in the 't' TRIE, if it's a valid word add the word
+❌	Error: 'a' TRIE not found in global addressmap
+✅	'a' TRIE generated and added to global addressmap
+❌	Error: 'asd' not found in the 'a' TRIE, if it's a valid word add the word
+✅	'apple' found successfully in the 'a' TRIE
+✅ Application terminated safely
+
+✅ Application launched: 2023-08-09 15:35:15.001185
+❌	Error: 't' TRIE not found in global addressmap
+✅	't' TRIE generated and added to global addressmap
+❌	Error: 'tri' not found in the 't' TRIE, if it's a valid word add the word
+❌	Error: 'a' TRIE not found in global addressmap
+✅	'a' TRIE generated and added to global addressmap
+❌	Error: 'asd' not found in the 'a' TRIE, if it's a valid word add the word
+❌	Error: 'apple' not found in the 'a' TRIE, if it's a valid word add the word
+❌	Error: 'app' not found in the 'a' TRIE, if it's a valid word add the word
+❌	Error: 'apps' not found in the 'a' TRIE, if it's a valid word add the word
+✅ Application terminated safely
+
+✅ Application launched: 2023-08-09 15:35:25.171477
+❌	Error: 't' TRIE not found in global addressmap
+✅	't' TRIE generated and added to global addressmap
+❌	Error: 'tri' not found in the 't' TRIE, if it's a valid word add the word
+❌	Error: 'a' TRIE not found in global addressmap
+✅	'a' TRIE generated and added to global addressmap
+❌	Error: 'asd' not found in the 'a' TRIE, if it's a valid word add the word
+✅	'apple' found successfully in the 'a' TRIE
+✅ Application terminated safely
+
+✅ Application launched: 2023-08-09 15:35:40.005670
+❌	Error: 't' TRIE not found in global addressmap
+✅	't' TRIE generated and added to global addressmap
+❌	Error: 'tri' not found in the 't' TRIE, if it's a valid word add the word
+❌	Error: 'a' TRIE not found in global addressmap
+✅	'a' TRIE generated and added to global addressmap
+❌	Error: 'asd' not found in the 'a' TRIE, if it's a valid word add the word
+✅	'apple' found successfully in the 'a' TRIE
+✅ Application terminated safely
+
+✅ Application launched: 2023-08-09 15:35:40.006668
+❌	Error: 'a' TRIE not found in global addressmap
+✅	'a' TRIE generated and added to global addressmap
+✅	'app' found successfully in the 'a' TRIE
+✅	'apps' found successfully in the 'a' TRIE
+✅ Application launched: 2023-08-09 15:35:51.299102
+❌	Error: 't' TRIE not found in global addressmap
+✅	't' TRIE generated and added to global addressmap
+❌	Error: 'tri' not found in the 't' TRIE, if it's a valid word add the word
+❌	Error: 'a' TRIE not found in global addressmap
+✅	'a' TRIE generated and added to global addressmap
+❌	Error: 'asd' not found in the 'a' TRIE, if it's a valid word add the word
+✅	'apple' found successfully in the 'a' TRIE
+✅ Application terminated safely
+
+✅ Application launched: 2023-08-09 15:35:51.300099
+❌	Error: 'a' TRIE not found in global addressmap
+✅	'a' TRIE generated and added to global addressmap
+✅	'app' found successfully in the 'a' TRIE
+✅	'apple' found successfully in the 'a' TRIE
+✅ Application launched: 2023-08-09 15:37:35.341364
+❌	Error: 't' TRIE not found in global addressmap
+✅	't' TRIE generated and added to global addressmap
+❌	Error: 'tri' not found in the 't' TRIE, if it's a valid word add the word
+❌	Error: 'a' TRIE not found in global addressmap
+✅	'a' TRIE generated and added to global addressmap
+❌	Error: 'asd' not found in the 'a' TRIE, if it's a valid word add the word
+❌	Error: 'apple' not found in the 'a' TRIE, if it's a valid word add the word
+❌	Error: 'app' not found in the 'a' TRIE, if it's a valid word add the word
+❌	Error: 'apps' not found in the 'a' TRIE, if it's a valid word add the word
+✅ Application terminated safely
+
+✅ Application launched: 2023-08-09 15:37:35.346350
+❌	Error: 'a' TRIE not found in global addressmap
+✅	'a' TRIE generated and added to global addressmap
+✅	'apple' found successfully in the 'a' TRIE
+✅ Application launched: 2023-08-09 15:38:27.951556
+❌	Error: 't' TRIE not found in global addressmap
+✅	't' TRIE generated and added to global addressmap
+❌	Error: 'tri' not found in the 't' TRIE, if it's a valid word add the word
+❌	Error: 'a' TRIE not found in global addressmap
+✅	'a' TRIE generated and added to global addressmap
+❌	Error: 'asd' not found in the 'a' TRIE, if it's a valid word add the word
+❌	Error: 'apple' not found in the 'a' TRIE, if it's a valid word add the word
+❌	Error: 'app' not found in the 'a' TRIE, if it's a valid word add the word
+❌	Error: 'apps' not found in the 'a' TRIE, if it's a valid word add the word
+✅ Application terminated safely
+
+✅ Application launched: 2023-08-09 15:38:38.723714
+❌	Error: 't' TRIE not found in global addressmap
+✅	't' TRIE generated and added to global addressmap
+❌	Error: 'tri' not found in the 't' TRIE, if it's a valid word add the word
+❌	Error: 'a' TRIE not found in global addressmap
+✅	'a' TRIE generated and added to global addressmap
+❌	Error: 'asd' not found in the 'a' TRIE, if it's a valid word add the word
+❌	Error: 'apple' not found in the 'a' TRIE, if it's a valid word add the word
+❌	Error: 'app' not found in the 'a' TRIE, if it's a valid word add the word
+❌	Error: 'apps' not found in the 'a' TRIE, if it's a valid word add the word
+✅ Application terminated safely
+
+✅ Application launched: 2023-08-09 15:39:17.072772
+❌	Error: 't' TRIE not found in global addressmap
+✅	't' TRIE generated and added to global addressmap
+❌	Error: 'tri' not found in the 't' TRIE, if it's a valid word add the word
+❌	Error: 'a' TRIE not found in global addressmap
+✅	'a' TRIE generated and added to global addressmap
+❌	Error: 'asd' not found in the 'a' TRIE, if it's a valid word add the word
+✅	'apple' found successfully in the 'a' TRIE
+⚠	Warning: 'apple' already exist, try updating the word
+✅	'app' found successfully in the 'a' TRIE
+⚠	Warning: 'app' already exist, try updating the word
+✅	'apps' found successfully in the 'a' TRIE
+⚠	Warning: 'apps' already exist, try updating the word
+✅ Application terminated safely
+
+✅ Application launched: 2023-08-09 15:39:17.075765
+❌	Error: 'a' TRIE not found in global addressmap
+✅	'a' TRIE generated and added to global addressmap
+✅	'apple' found successfully in the 'a' TRIE
+✅ Application launched: 2023-08-09 15:22:50.564925
+❌	Error: 'a' TRIE not found in global addressmap
+✅	'a' TRIE generated and added to global addressmap
+✅	'apple' found successfully in the 'a' TRIE
+✅ Application launched: 2023-08-09 15:39:36.226690
+❌	Error: 't' TRIE not found in global addressmap
+✅	't' TRIE generated and added to global addressmap
+❌	Error: 'tri' not found in the 't' TRIE, if it's a valid word add the word
+❌	Error: 'a' TRIE not found in global addressmap
+✅	'a' TRIE generated and added to global addressmap
+❌	Error: 'asd' not found in the 'a' TRIE, if it's a valid word add the word
+✅	'apple' found successfully in the 'a' TRIE
+⚠	Warning: 'apple' already exist, try updating the word
+✅	'app' found successfully in the 'a' TRIE
+⚠	Warning: 'app' already exist, try updating the word
+✅	'apps' found successfully in the 'a' TRIE
+⚠	Warning: 'apps' already exist, try updating the word
+✅ Application terminated safely
+
+✅ Application launched: 2023-08-09 15:39:36.227687
+❌	Error: 'a' TRIE not found in global addressmap
+✅	'a' TRIE generated and added to global addressmap
+✅	'apple' found successfully in the 'a' TRIE
+✅	'apple' found successfully in the 'a' TRIE
+✅	'apple' found successfully in the 'a' TRIE
+✅	'apple' found successfully in the 'a' TRIE
+✅ Application launched: 2023-08-09 15:42:14.072331
+❌	Error: 't' TRIE not found in global addressmap
+✅	't' TRIE generated and added to global addressmap
+❌	Error: 'tri' not found in the 't' TRIE, if it's a valid word add the word
+❌	Error: 'a' TRIE not found in global addressmap
+✅	'a' TRIE generated and added to global addressmap
+❌	Error: 'asd' not found in the 'a' TRIE, if it's a valid word add the word
+❌	Error: 'apple' not found in the 'a' TRIE, if it's a valid word add the word
+❌	Error: 'app' not found in the 'a' TRIE, if it's a valid word add the word
+❌	Error: 'apps' not found in the 'a' TRIE, if it's a valid word add the word
+✅ Application terminated safely
+
+✅ Application launched: 2023-08-09 15:42:24.785989
+❌	Error: 't' TRIE not found in global addressmap
+✅	't' TRIE generated and added to global addressmap
+❌	Error: 'tri' not found in the 't' TRIE, if it's a valid word add the word
+❌	Error: 'a' TRIE not found in global addressmap
+✅	'a' TRIE generated and added to global addressmap
+❌	Error: 'asd' not found in the 'a' TRIE, if it's a valid word add the word
+✅	'apple' found successfully in the 'a' TRIE
+⚠	Warning: 'apple' already exist, try updating the word
+✅	'app' found successfully in the 'a' TRIE
+⚠	Warning: 'app' already exist, try updating the word
+✅	'apps' found successfully in the 'a' TRIE
+⚠	Warning: 'apps' already exist, try updating the word
+✅ Application terminated safely
+
+✅ Application launched: 2023-08-09 15:42:24.786983
+❌	Error: 'a' TRIE not found in global addressmap
+✅	'a' TRIE generated and added to global addressmap
+✅	'apple' found successfully in the 'a' TRIE
+✅	'apple' found successfully in the 'a' TRIE
+✅	'apple' found successfully in the 'a' TRIE
+✅ Application launched: 2023-08-09 15:44:45.079758
+❌	Error: 't' TRIE not found in global addressmap
+✅	't' TRIE generated and added to global addressmap
+❌	Error: 'tri' not found in the 't' TRIE, if it's a valid word add the word
+❌	Error: 'a' TRIE not found in global addressmap
+✅	'a' TRIE generated and added to global addressmap
+❌	Error: 'asd' not found in the 'a' TRIE, if it's a valid word add the word
+✅	'apple' found successfully in the 'a' TRIE
+⚠	Warning: 'apple' already exist, try updating the word
+✅	'app' found successfully in the 'a' TRIE
+⚠	Warning: 'app' already exist, try updating the word
+✅	'apps' found successfully in the 'a' TRIE
+⚠	Warning: 'apps' already exist, try updating the word
+✅ Application terminated safely
+
+✅ Application launched: 2023-08-09 15:44:45.080792
+✅ Application launched: 2023-08-09 15:45:17.165731
+❌	Error: 't' TRIE not found in global addressmap
+✅	't' TRIE generated and added to global addressmap
+❌	Error: 'tri' not found in the 't' TRIE, if it's a valid word add the word
+❌	Error: 'a' TRIE not found in global addressmap
+✅	'a' TRIE generated and added to global addressmap
+❌	Error: 'asd' not found in the 'a' TRIE, if it's a valid word add the word
+✅	'apple' found successfully in the 'a' TRIE
+⚠	Warning: 'apple' already exist, try updating the word
+✅	'app' found successfully in the 'a' TRIE
+⚠	Warning: 'app' already exist, try updating the word
+✅	'apps' found successfully in the 'a' TRIE
+⚠	Warning: 'apps' already exist, try updating the word
+✅ Application terminated safely
+
+✅ Application launched: 2023-08-09 15:45:17.166731
+❌	Error: 'a' TRIE not found in global addressmap
+✅	'a' TRIE generated and added to global addressmap
+✅	'apple' found successfully in the 'a' TRIE
+✅	'apple' found successfully in the 'a' TRIE
+✅ Application launched: 2023-08-09 15:47:06.242855
+❌	Error: 'a' TRIE not found in global addressmap
+✅	'a' TRIE generated and added to global addressmap
+❌	Error: 'apple' not found in the 'a' TRIE, if it's a valid word add the word
+❌	Error: 'apple' not found in the 'a' TRIE, if it's a valid word add the word
