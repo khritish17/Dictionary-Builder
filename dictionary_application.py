@@ -94,12 +94,13 @@ class DictionaryApplication:
                 # if the TRIE is not already generated, then nothing needs to be done
                 # since the data is already in the address_file, TRIE will be generated 
                 # whenever it is required
-                pass  
+                pass
+            return True  
         else:
             # Word already exist 
             # suggest updating
             self.log_file.write("\u26A0\tWarning: '{}' already exist, try updating the word\n".format(word))
-            return None
+            return False
 
             
 
@@ -114,7 +115,7 @@ class DictionaryApplication:
         wrd, des, img_adrs, src_adrs = self.find_word(word)
         if wrd == None:
             # if word does not exist, there is nothing to update
-            return None
+            return False
         else:
             # word exists
             address_file_TRIE = self.global_addressmap[initial]
@@ -143,6 +144,7 @@ class DictionaryApplication:
                 else:
                     db_file.write(line)
             db_file.close()
+            return True
     
     def delete_word(self):
         pass
