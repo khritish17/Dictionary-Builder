@@ -1,5 +1,5 @@
 # Dictionary-Builder
-Official Documentation of the GARGI Network
+Official Documentation of the Dictionar Builder Network
 
 > **Note** The project is currently active, there may be some updates where the old API may be changed according to the requirement. Hence always look out for updates. Once the project gets finalized this NOTE will be removed.
 
