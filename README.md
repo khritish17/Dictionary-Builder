@@ -1,5 +1,5 @@
 # Dictionary-Builder
-Official Documentation of the Dictionar Builder Network
+Official Documentation of the Dictionary Builder
 
 > **Note** The project is currently active, there may be some updates where the old API may be changed according to the requirement. Hence always look out for updates. Once the project gets finalized this NOTE will be removed.
 
