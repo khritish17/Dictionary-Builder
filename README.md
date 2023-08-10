@@ -5,7 +5,7 @@ Official Documentation of the Dictionary Builder
 
 ### Description:
 
-A Python-based word-dictionary application was designed, employing a TRIE data structure to facilitate streamlined processes for the addition, updating, and retrieval of word entries. Encompassing words, along with their respective meanings, associated images, and image sources, the application takes on the form of a picture dictionary.
+A Python-based word-dictionary application, employing a TRIE data structure to facilitate streamlined processes for the addition, updating, and retrieval of word entries. Encompassing words, along with their respective meanings, associated images, and image sources, the application takes on the form of a picture dictionary.
 
 ### Prerequisites
 
